@@ -1,6 +1,5 @@
 # EX 7 : JKFLIPFLOP-USING-IF-ELSE
-## REG NO: 212222230177
-## NAME : VISHAL M.A
+### Date : 07/11/24
 **AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
@@ -48,6 +47,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 ```
+NAME : VISHAL M.A
+REG NO : 212222230177
+
+
 module JK_FF(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
     output reg q, qb;
